@@ -11,7 +11,7 @@ let inct = 10,
 inct++;
 decr--;
 
-console.log(inct);
+console.log(++inct);
 console.log(decr);
 
 const isChecked = true;
